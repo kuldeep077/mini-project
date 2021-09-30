@@ -1,5 +1,3 @@
-# mini-project
-#kuldeep bayan 2012077
 #include <stdio.h>
 #define MAX 4500
 void add(char num1[], char num2[], char result[])
